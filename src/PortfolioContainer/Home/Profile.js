@@ -15,10 +15,10 @@ export default function Profile() {
                 <a href='#'>
                     <i className='fa fa-instagram'></i>
                 </a>
-                <a href='https://www.linkedin.com/in/priyanka-sarda-145aa924b/'>
+                <a href='#'>
                     <i className='fa fa-linkedin'></i>
                 </a>
-                <a href='https://github.com/Piusarda'>
+                <a href='#'>
                     <i className='fa fa-github'></i>
                 </a>
             </div>
